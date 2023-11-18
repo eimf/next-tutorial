@@ -10,6 +10,6 @@ This tutorial dives into the powerful features of Next.js, providing a hands-on 
 
 - **Let's embark on this exciting journey of mastering Next.js with an extra touch for testing excellence.**
 
-```AI
-   Was heavily used here!
+```
+   AI was heavily used here!
 
